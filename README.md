@@ -1,7 +1,7 @@
 ### Olá !
 
 
-- 🌱 Estudando JavaScript, HTML e CSS.
+- 🌱 Estudando Python | JavaScript
 
 - 📫 Contate-me no email: leonardo.amillan@outlook.com
 
