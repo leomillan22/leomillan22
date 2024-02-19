@@ -1,7 +1,7 @@
 ### Olá !
 
 
-- 🌱 Estudando Python | JavaScript
+- 🌱 Estudando JavaScript e cursando Desenvolvimento WEB na faculdade !
 
 - 📫 Contate-me no email: leonardo.amillan@outlook.com
 
@@ -12,6 +12,4 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
